@@ -74,7 +74,12 @@ const Confetti = () => {
                             "#FF0000",
                             "#00FF00",
                             "#0000FF",
-                            "#9900ff"
+                            "#9900ff",
+                            "#FFFF00", // Yellow
+                            "#FF00FF", // Magenta
+                            "#00FFFF", // Cyan
+                            "#FFA500", // Orange
+                            "#800080"  // Purple
                         ]
                     },
                     move: {
